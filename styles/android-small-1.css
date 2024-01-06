@@ -1,0 +1,235 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.android-small-1-bZe {
+  width: 100%;
+  height: 64rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ff6565;
+}
+.android-small-1-bZe .image-1-bxx {
+  filter: blur(2px);
+  width: 36.1rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+h1 {
+  border: 2px solid black;
+}
+
+
+.january-5dE{
+    /* ... other styles ... */
+    background: #3559E0;
+    background-clip: text; /* Ensures the text is the clip area for the background */
+    color: transparent; /* Make the text transparent so that the background is visible through it */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0); 
+}
+
+.auto-group-owzn-gaQ:hover,
+.auto-group-sfpx-GHi:hover,
+.auto-group-v1ze-vNG:hover,.auto-group-owzn-gaQ.active,.auto-group-sfpx-GHi.active,.auto-group-v1ze-vNG.active
+
+
+{
+  background-color: #2980b9;
+  transform: scale(1.1); /* Zoom effect on hover and click */
+}
+
+.android-small-1-bZe .january-5dE {
+  width: 23.6rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 2.9rem;
+  text-align: center;
+  font-size: 5.4rem;
+  font-weight: 900;
+  line-height: 1.2175;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-1-bZe .item-2005-8rQ {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0); 
+  width: 8.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 10.1rem;
+  font-size: 3.1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-1-bZe .rectangle-1-RKi {
+  width: 36rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 16.9rem;
+  background-color: #f875aa;
+  border-radius: 1.5rem 1.5rem 0 0;
+}
+
+.blur{
+      overflow: hidden;
+      filter: blur(5px); /* Adjust the blur amount as needed */
+      transition: filter 0.5s ease;
+}
+.android-small-1-bZe .image-2-7CY {
+  filter: blur(2px);
+  width: 31.6rem;
+  height: 34.7rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 17.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.android-small-1-bZe .group-2-RU8 {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0); 
+  width: 28.9rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 20.4rem;
+}
+.android-small-1-bZe .group-2-RU8 .happy-birthday-peg {
+  width: 28.9rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Baloo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-1-bZe .group-2-RU8 .loveee-Gma {
+  width: 14rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 7.45rem;
+  top: 5.3rem;
+  text-align: center;
+  font-size: 4.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Baloo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.android-small-1-bZe .group-1-Ac4 {
+  width: 29.8rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 36.6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1.5rem;
+}
+.android-small-1-bZe .group-1-Ac4 .auto-group-owzn-gaQ {
+  margin-right: 3.8rem;
+  width: 7.7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.6rem 0.6rem 0.4rem rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.android-small-1-bZe .group-1-Ac4 .auto-group-sfpx-GHi {
+  margin-right: 2.9rem;
+  width: 7.7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.6rem 0.6rem 0.4rem rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.android-small-1-bZe .group-1-Ac4 .auto-group-v1ze-vNG {
+  width: 7.7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.6rem 0.6rem 0.4rem rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.android-small-1-bZe .rectangle-5-MiU {
+  width: 40.8rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 54.3rem;
+  background-color: #ff004d;
+}
+.android-small-1-bZe .with-all-my-love-dariel-5eU {
+  width: 19rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 57.4rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+}
